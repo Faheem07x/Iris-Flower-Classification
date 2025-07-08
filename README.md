@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification – Internship Project (Week 1)
+# 🌸 Iris Flower Classification 
 
 This project is part of the AI & ML Internship Program – Week 1. The goal is to build a simple machine learning model to classify iris flowers into one of three species based on their sepal and petal measurements.
 
